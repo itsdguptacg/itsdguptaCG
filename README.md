@@ -28,17 +28,6 @@ Computer Science Engineering student at CodingGita, based in Surat, Gujarat. Cur
 
 <br>
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsdguptacg&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdguptacg&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
-
-</div>
-
-<br>
-
 ### Connect
 
 <div align="center">
