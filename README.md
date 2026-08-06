@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Science Engineering student at CodingGita, based in Surat, Gujarat. Currently learning Python and building a foundation in software development — documenting the process as I go.
+Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujarat. Currently learning Python and building a foundation in software development — documenting the process as I go.
 
 <br>
 
