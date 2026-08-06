@@ -39,6 +39,14 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 
 <br>
 
+<!-- Top languages used -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdguptacg&layout=compact&theme=radical)
+
+<!-- Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsdguptacg&theme=radical)
+
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsdguptacg&color=58A6FF&style=flat-square&label=Profile+Views)
