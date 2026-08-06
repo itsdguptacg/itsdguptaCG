@@ -43,6 +43,15 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsdguptacg&color=58A6FF&style=flat-square&label=Profile+Views)
 
+</div>
+
+<br>
+
+<div>
+
+
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=itsdguptacg&theme=midnightneon&leetcode=itsdgupta&align=center)
+
 <sub>Last updated: August 2026</sub>
 
 </div>
