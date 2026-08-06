@@ -21,8 +21,22 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br>
+
+### GitHub Productivity
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=itsdguptacg&show_icons=true&rank_icon=github&border_radius=10&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=9DA9C0&bg_color=0D1117)](https://github.com/itsdguptacg)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsdguptacg&layout=compact&border_radius=10&hide_border=true&title_color=58A6FF&text_color=9DA9C0&bg_color=0D1117)](https://github.com/itsdguptacg)
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsdguptacg&border_radius=10&hide_border=true&theme=github-dark-blue&fire=58A6FF&currStreakNum=9DA9C0&sideNums=9DA9C0&ring=58A6FF&stroke=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
