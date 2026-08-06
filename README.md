@@ -39,10 +39,6 @@ Computer Science Engineering student at CodingGita, based in Gandhinagar, Gujara
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsdgupta)](https://git.io/streak-stats)
-
-<br>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsdguptacg&color=58A6FF&style=flat-square&label=Profile+Views)
